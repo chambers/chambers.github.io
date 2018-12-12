@@ -1,2 +1,2 @@
 # chambers.github.io
-Repository for kieranchambers.com
+Repository for chambers.github.io
